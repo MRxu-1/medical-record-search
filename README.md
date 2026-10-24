@@ -9,7 +9,7 @@
 
 ## 下载与运行
 
-打开本项目 **[最新版本下载](https://github.com/MRxu-1/medical-record-search/releases/latest)**，下载 `病案编码快捷检索_公开发行版_v0.2.3_win-x64.zip`。完整解压后双击 `病案编码快捷检索.exe`，保留旁边的 DLL 与“程序资源”文件夹。不要下载 GitHub 自动生成的“Source code”压缩包来运行，那只是本仓库说明文件的快照。
+打开本项目 **[最新版本下载](https://github.com/MRxu-1/medical-record-search/releases/latest)**，下载 `medical-record-search-v0.2.3-win-x64.zip`。完整解压后双击 `病案编码快捷检索.exe`，保留旁边的 DLL 与“程序资源”文件夹。不要下载 GitHub 自动生成的“Source code”压缩包来运行，那只是本仓库说明文件的快照。
 
 需要 Windows 10/11 64 位、.NET Framework 4.6.2 或以上，以及 [Microsoft Edge WebView2 Runtime](https://developer.microsoft.com/microsoft-edge/webview2/)；运行环境未捆绑。检索可离线使用，官方参考网站需要主动联网。未测试所有 Windows 10/11 环境。
 
